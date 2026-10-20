@@ -13,7 +13,7 @@ Support and Assistance
 If you experience a problem with Overwatch, have a question about its operation, or would like to report an issue, please contact:
 
 D3 Digital
-Email: D3Digital@icloud.com
+Email: donnykerr41@icloud.com
 
 When requesting assistance, please include a brief description of the issue and, if applicable, the device and iOS or macOS version you are using.
 
